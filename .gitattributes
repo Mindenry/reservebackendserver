@@ -1,0 +1,4 @@
+nodejs-oracle-backend/instantclient/*.dll filter=lfs diff=lfs merge=lfs -text
+/instantclient/*.dll filter=lfs diff=lfs merge=lfs -text
+instantclient/*.dll filter=lfs diff=lfs merge=lfs -text
+instantclient/*.so filter=lfs diff=lfs merge=lfs -text
